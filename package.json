@@ -1,0 +1,22 @@
+{
+  "name": "loop-landing-oage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adegbite1999/loop-studio.git"
+  },
+  "author": "Adegbite Ademola Kelvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adegbite1999/loop-studio/issues"
+  },
+  "homepage": "https://github.com/Adegbite1999/loop-studio#readme",
+  "dependencies": {
+    "sass-node": "^4.11.2"
+  }
+}
